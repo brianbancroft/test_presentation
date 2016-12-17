@@ -1,3 +1,9 @@
-# This is a slide
+#HSLIDE
+### This is a slide
 
-# This is another slide. 
+
+#HSLIDE
+### This is another slide. 
+
+#VSLIDE
+### Something goes veritcal here. 
